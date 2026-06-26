@@ -1,4 +1,4 @@
-import EquipmentSet from './EquipamientoSet'
+import EquipmentSet from './EquipmentSet'
 import { Container, Grid } from '@mui/material'
 
 const sets = [

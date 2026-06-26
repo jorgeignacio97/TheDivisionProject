@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import EquipmentItem from './EquipamientoItem'
+import EquipmentItem from './EquipmentItem'
 import { Paper, Typography, Box } from '@mui/material'
 
 import alphaBridgeIcon from '../assets/icons/AlphaBridge.svg'

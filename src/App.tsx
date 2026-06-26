@@ -1,5 +1,5 @@
 import { useState, useEffect, useMemo } from 'react'
-import EquipmentList from './components/EquipamientoLista'
+import EquipmentList from './components/EquipmentList'
 import {
   CssBaseline,
   Typography,
